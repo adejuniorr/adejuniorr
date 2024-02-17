@@ -1,8 +1,8 @@
 # 🤘 Olá, eu sou o Adê!
 
-### - 👨‍💻 Sou **Desenvolvedor Front End** e estou no curso de **Ciência da Computação**, na UESB.
+### - 👨‍💻 Sou **Desenvolvedor Front End** e estudante de **Ciência da Computação**.
 ### - 🎲 Adoro criar sites, programar e ouvir rock!
-### - 📫 Me encontre por aqui: 
+### - 📫 Links: 
  - <a href="https://www.linkedin.com/in/dev-ademirjunior/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  - PORTFÓLIO: https://adejunior.netlify.app/ 
 
