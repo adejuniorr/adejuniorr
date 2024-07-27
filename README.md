@@ -4,6 +4,7 @@
 ### - 🎲 Adoro criar sites, programar e ouvir rock!
 ### - 📫 Links: 
 
+ - https://pets-and-tips.netlify.app/ (meu último projeto)
  - https://adejunior.netlify.app/ 
  - <a href="https://www.linkedin.com/in/dev-ademirjunior/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
