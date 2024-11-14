@@ -1,5 +1,9 @@
 <h1 align="left">🍀Olá, eu sou o Adê! =)</h1>
 
+🧑‍🎓 **Cursando** Ciência da Computação na UESB
+
+🪁 **Dev Front-End** desde 2022
+
 Eu sou um curioso e um amante das artes; e também sou desenvolvedor de websites. Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o melhor dos dois mundos: arte e tecnologia.🪁🦾
 
 ## ⚙️ Trabalhando com...
@@ -32,4 +36,4 @@ Eu sou um curioso e um amante das artes; e também sou desenvolvedor de websites
 
 ###
 
-Centralizando `<div>`'s desde 2022 | <a href="https://dev-ade.vercel.app/">Portfólio</a> 👨‍💻
+<a href="https://dev-ade.vercel.app/">Clique para acessar meu Portfólio</a> 👨‍💻
