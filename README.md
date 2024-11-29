@@ -4,7 +4,9 @@
 
 ### 🪁 Dev Front-End desde 2022
 
-Eu sou um curioso e um amante das artes; e também sou desenvolvedor de websites. Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o melhor dos dois mundos: arte e tecnologia.🪁🦾
+_Eu sou um curioso e um amante das artes; e também sou desenvolvedor de websites._
+
+Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o melhor dos dois mundos: arte e tecnologia.🪁🦾
 
 # ⚙️ Trabalhando com...
 
