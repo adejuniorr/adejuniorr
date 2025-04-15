@@ -1,10 +1,10 @@
 # 🍀Olá, eu sou o Adê! =)
 
-### 🎓 Cursando Ciência da Computação na UESB
+### 📚 Cursando Ciência da Computação
 
-### 🪁 Dev Front-End desde 2022
+### 💻 Dev Front-End desde 2022
 
-_Eu sou um curioso e um amante das artes; e também sou desenvolvedor de websites._
+_Sou um curioso da tecnologia e um amante das artes; e também sou desenvolvedor de websites._
 
 Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o melhor dos dois mundos: arte e tecnologia.🪁🦾
 
