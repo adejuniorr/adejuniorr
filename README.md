@@ -11,6 +11,8 @@ Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o 
 # ⚙️ Trabalhando com...
 
 <div align="left">
+  <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
@@ -20,11 +22,6 @@ Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" />
-
 </div>
 
 ###
