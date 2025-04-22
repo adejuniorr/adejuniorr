@@ -1,14 +1,14 @@
-# 🍀Olá, eu sou o Adê! =)
+# 🍀Hello, you can call Ade! =)
 
-### 📚 Cursando Ciência da Computação
+### 📚 Graduating on Computer Science
 
-### 💻 Dev Front-End desde 2022
+### 💻 Dev since 2022
 
-_Sou um curioso da tecnologia e um amante das artes; e também sou desenvolvedor de websites._
+_I'm curious about technology and an art lover; and I'm also a web developer._
 
-Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o melhor dos dois mundos: arte e tecnologia.🪁🦾
+My name is Ademir Junior, I'm a brazilian guy (state of Bahia), I'm 22 years old and, to me, development is the best of two worlds: art and technology.🪁🦾
 
-# ⚙️ Trabalhando com...
+# ⚙️ Working with...
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" height="40" />
@@ -33,4 +33,4 @@ Meu nome é Ademir Júnior, sou baiano, tenho 22 anos e pra mim esta área é o 
 
 ###
 
-### <a href="https://dev-ade.vercel.app/">Clique para acessar meu Portfólio</a> 👨‍💻
+### <a href="https://dev-ade.vercel.app/">Click to access my Portfolio</a> 👨‍💻
