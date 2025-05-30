@@ -1,14 +1,14 @@
-# 🍀Hello, you can call Ade! =)
+## 🍀Hi, you can call me Ade =)
 
+### ✨ Take a look on my projects bellow
 ### 📚 Graduating on Computer Science
-
 ### 💻 Dev since 2022
 
-_I'm curious about technology and an art lover; and I'm also a web developer._
+_I'm a curious about technology and an art lover; and I'm also a web developer._
 
 My name is Ademir Junior, I'm a brazilian guy (state of Bahia), I'm 22 years old and, to me, development is the best of two worlds: art and technology.🪁🦾
 
-# ⚙️ Working with...
+## ⚙️ Working with...
 
 <div align="left">
   <img src="https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000" height="40" />
@@ -33,4 +33,4 @@ My name is Ademir Junior, I'm a brazilian guy (state of Bahia), I'm 22 years old
 
 ###
 
-### <a href="https://dev-ade.vercel.app/">Click to access my Portfolio</a> 👨‍💻
+### <a href="https://linkedin.com/in/dev-ademirjunior">Click here to access my LinkedIn</a> 👨‍💻
